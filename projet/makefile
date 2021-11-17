@@ -1,7 +1,7 @@
 #changer le nom des deux lignes suivantes si nécessaire
-SOURCE = exemple.c
+SOURCE = mazerunner.c
 OUTPUT = resultat
-LIB = -lm -lSDL -lSDL_ttf
+LIB = -lm -lSDL -lSDL_ttf -lSDL_mixer 
 OPT = -Wall
 
 
